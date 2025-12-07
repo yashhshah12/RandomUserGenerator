@@ -57,7 +57,7 @@ font-size: 0.99rem;
 }
 .btn{
     background-color: var(--accent);
-    padding: 8px;
+    padding: 10px;
     width: 100%;
     max-width: var(--width);
     color: var(--card);
